@@ -1,7 +1,7 @@
 # Praktikum 05 Web Service Engineering
 
-Nama: Kurnia Lintang Himayanta  
-NIM: 240104040155  
+Nama: ACHMAD ALPIANOOR 
+NIM: 240104040144  
 Kelas: 24A - Program Studi Teknologi Informasi, UIN Antasari Banjarmasin 
 Lingkungan: Node.js v24.21.0, npm, Express 5.3.0  
 
